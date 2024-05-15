@@ -1,0 +1,17 @@
+.site-footer {
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    margin: auto;
+}
+
+.site-footer p {
+    margin: 0;
+}
+
+.container_footer{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 20px;
+    text-align: center;
+}
